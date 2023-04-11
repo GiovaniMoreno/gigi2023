@@ -1,11 +1,29 @@
-body{
-    background-color:rgba(160, 149, 100);
-    font-family: 'Lucida Sans';
-    font-size: small;
-    color: #fdfdfd;
-    text-align: center;
-    display: inline;
-    font-size: 14px;
+
+
+
+.cabec1{
+
+position: absolute;
+width: 1440px;
+height: 379px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #C070DC 0%, rgba(192, 112, 220, 0.781818) 31.25%, rgba(192, 112, 220, 0) 85.94%);
+}
+.img3{
+    position: absolute;
+width: 337px;
+height: 303px;
+left: 41px;
+top: 122px;
+}
+    body{
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: rgba(213, 159, 232, 0.98);
     }
     h3{
     font-family: 'Lucida Sans';
