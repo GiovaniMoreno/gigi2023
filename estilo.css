@@ -1,14 +1,10 @@
 
-
-
 .cabec1{
-
 position: absolute;
 width: 1440px;
 height: 379px;
 left: 0px;
 top: 0px;
-
 background: linear-gradient(180deg, #C070DC 0%, rgba(192, 112, 220, 0.781818) 31.25%, rgba(192, 112, 220, 0) 85.94%);
 }
 .img3{
@@ -22,7 +18,6 @@ top: 122px;
 position: relative;
 width: 1440px;
 height: 1024px;
-
 background: rgba(213, 159, 232, 0.98);
     }
     h3{
